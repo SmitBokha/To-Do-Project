@@ -1,5 +1,5 @@
 # ToTo-Do Project
-Manage your To-Do in with project
+Manage your To-Do with that project
 
 ## Description
 This is Todo website built with React. The website allows users to add, edit, check, and delete todos. It uses the `useContext` hook for state management.
