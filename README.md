@@ -5,7 +5,7 @@ Manage your To-Do with that project
 This is Todo website built with React. The website allows users to add, edit, check, and delete todos. It uses the `useContext` hook for state management.
 
 ## Features
-- **Save In Localhost:** User can save their todo in Localhost.
+- **Save In Localhost:** Users can save their todo in Localhost.
 - **Add Todos:** Users can add new todos.
 - **Check/Uncheck Todos:** Users can mark todos as completed or incomplete.
 - **Edit Todos:** Users can edit existing todos.
