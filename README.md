@@ -1,12 +1,8 @@
-# ToTo-Do Project
-Manage your To-Do in with project
+# React + Vite
 
-## Description
-This is Todo website built with React. The website allows users to add, edit, check, and delete todos. It uses the `useContext` hook for state management.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
-- **Save In Localhost:** User can save their todo in Localhost.
-- **Add Todos:** Users can add new todos.
-- **Check/Uncheck Todos:** Users can mark todos as completed or incomplete.
-- **Edit Todos:** Users can edit existing todos.
-- **Delete Todos:** Users can remove todos from the list.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
